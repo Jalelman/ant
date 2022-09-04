@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 1, 2022, 5:43:19 PM
+    Author     : Jalel
+*/
+
+.navbar{
+    -fx-background-color:linear-gradient(to bottom right, #2f466b, #662d60);
+     
+}
+.exit{
+    -fx-background-color:#c22c40;
+    -fx-background-radius:5px;
+    -fx-cursor:hand;
+}
+.exit:hover{
+    -fx-background-color:#f15b72;
+}
+.navbutton{
+    -fx-background-color:linear-gradient(to bottom right,rgba(121,172,255,0.2),rgba(255,106,239,0.2));
+    -fx-cursor:hand;
+    -fx-alignement:CENTER-LEFT;
+}
+.navbutton:hover{
+    -fx-background-color:linear-gradient(to bottom right,rgba(121,172,255,0.6),rgba(255,106,239,0.6));
+    -fx-cursor:hand;
+}
+
+.editButton{
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+    -fx-padding:50px 0px 0px 0px;
+}
+.card-top{
+    -fx-background-color : linear-gradient( to bottom right, #2f466b, #662d60) ;
+
+}

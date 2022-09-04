@@ -115,6 +115,7 @@ public class FXMLDocumentController implements Initializable {
             }else{
 
             if (result.next()) {
+                User.username = result.getString("nom");
                 JOptionPane.showMessageDialog(null, "Connecter avec succé");
 
                 String s1 = result.getString("Role");

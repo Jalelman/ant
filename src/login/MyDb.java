@@ -14,7 +14,7 @@ import java.sql.SQLException;
  * @author islem
  */
 public class MyDb {
-    private final String URL = "jdbc:Mysql://localhost/ant";
+    private final String URL = "jdbc:Mysql://localhost/elite";
     private final String USERNAME = "root";
     private final String PWD = "";
     private Connection c;
