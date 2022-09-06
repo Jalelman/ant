@@ -1,0 +1,43 @@
+/*
+ * Empty Stylesheet file.
+ */
+.parent{
+    -fx-background-color: transparent;
+}
+.Anchore_Pane{
+    -fx-background-color: transparent;
+    -fx-background-radius: 5px;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5px;
+    -fx-border-width: lpx;
+    -fx-text-fill: whitesmoke;
+}
+.table-view{
+    -fx-background-color: transparent;
+    -fx-border-radius: 5px;
+    -fx-cell-size: 10px;
+    
+}
+.table-view:focused{
+    -fx-background-color: transparent;
+}
+.table-view.column-header-background{
+    -fx-background-color: linear-gradient(#131313 50%, #424141 100%);
+}
+.white-Pane{
+    -fx-background-image:url("/ANT_Elearning/Image/Manell.jpg");
+    -fx-background-size: 241 326;
+    -fx-background-position:center  center;
+    -fx-background-color: #FFFFFF;
+        
+}
+.pint-btn{
+    -fx-background-color: #C5304D;
+    -fx-background-radius: 5px;
+    -fx-text-fill: #FFFFFF;
+}
+
+.mainFxmlClass {
+   
+
+}
