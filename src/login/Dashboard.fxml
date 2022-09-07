@@ -66,7 +66,7 @@
                   <FontAwesomeIconView fill="WHITE" />
                </graphic>
             </Button>
-            <Button fx:id="gniveau" layoutX="17.0" layoutY="277.0" mnemonicParsing="false" prefWidth="150.0" styleClass="navbutton" stylesheets="@DashboardDesign.css" text="Gérer niveau" textFill="WHITE">
+           <Button fx:id="gniveau" onAction="#afficher" layoutX="17.0" layoutY="277.0" mnemonicParsing="false" prefWidth="150.0" styleClass="navbutton" stylesheets="@DashboardDesign.css" text="Gérer niveau" textFill="WHITE">
                <font>
                   <Font name="Microsoft Sans Serif" size="11.0" />
                </font>
@@ -74,7 +74,7 @@
                   <FontAwesomeIconView fill="WHITE" />
                </graphic>
             </Button>
-            <Button fx:id="gGroupe" layoutX="17.0" layoutY="305.0" mnemonicParsing="false" prefWidth="150.0" styleClass="navbutton" stylesheets="@DashboardDesign.css" text="Gérer groupe" textFill="WHITE">
+            <Button fx:id="gGroupe" onAction="#afficher_grp" layoutX="17.0" layoutY="305.0" mnemonicParsing="false" prefWidth="150.0" styleClass="navbutton" stylesheets="@DashboardDesign.css" text="Gérer groupe" textFill="WHITE">
                <font>
                   <Font name="Microsoft Sans Serif" size="11.0" />
                </font>
