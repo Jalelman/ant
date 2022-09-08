@@ -3,10 +3,25 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ff/ant/ant/src/login/FXMLDocumentController.java</file>
-            <file>file:/C:/Users/ff/ant/ant/src/login/dashboardController.java</file>
-            <file>file:/C:/Users/ff/ant/ant/src/login/User.java</file>
-            <file>file:/C:/Users/ff/ant/ant/src/login/DashboardDesign.css</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/controller1.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/NewFXMain.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/testcrudgroupe/TestCrudniveau.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/groupes.fxml</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/FXMLDocument.fxml</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/utils/MyDb1.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/services/Serviceniveau.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/niveau.fxml</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/login/Dashboard.fxml</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/AddniveauController.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/AddNiveauControllers.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/models/niveau.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/AddNiveau.fxml</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/login/groupecontroller.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/services/niveauList.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/NiveauController.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/GUI/NewFXMain_1.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/login/dashboardController.java</file>
+            <file>file:/C:/Users/DINA%20CHIHAOUI/Desktop/New%20folder%20(12)/ant/src/services/Iservices_1.java</file>
         </group>
     </open-files>
 </project-private>
